@@ -4,7 +4,7 @@
 This markdown file provides links to helpful websites and platforms that offer valuable resources for learning, collaboration, and professional development in data science, data engineering, and data analysis.
 
 ## Helpful Websites and Platforms
-0. [Get the textbook download link from this Twitter account](https://x.com/Z_Lib_official?t=BZ94HYKI8ahEbFt7_FSgbg&s=08)
+**[Get the textbook download link from this Twitter account](https://x.com/Z_Lib_official?t=BZ94HYKI8ahEbFt7_FSgbg&s=08)**
 1. [Kaggle](https://www.kaggle.com): A platform for data science competitions, datasets, and learning resources.
 2. [Towards Data Science](https://towardsdatascience.com): A Medium publication with articles and tutorials on data science and machine learning.
 3. [DataCamp](https://www.datacamp.com): Offers interactive courses and tutorials on data science and analytics.
