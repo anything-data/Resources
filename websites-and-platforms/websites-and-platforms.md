@@ -13,6 +13,7 @@ This markdown file provides links to helpful websites and platforms that offer v
 6. [Stack Overflow](https://stackoverflow.com): A Q&A platform for programming and data-related questions.
 7. [Google Colab](https://colab.research.google.com): A free cloud-based platform for running Jupyter notebooks.
 8. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php): A collection of datasets for machine learning research.
+9. [edX](https://www.edx.org): Offers online courses from universities and institutions on various topics, including data science.
 
 ## Contribution Guidelines
 If you know of other helpful websites or platforms, feel free to contribute by adding them to this list.
